@@ -1,3 +1,6 @@
+# Sobre
+Este é um pequeno CRUD escrito em Python que atua conjuntamente com SQL Server 2019 e possui uma GUI simples para navegação.
+
 # Instalação
 Para utilizar o programa é necessário instalado na máquina:
   -Python
